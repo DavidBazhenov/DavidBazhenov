@@ -40,11 +40,9 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidBazhenov&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBazhenov&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
+### 📊 My Contributions
+![GitHub Snake Light](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
 
 ---
 
