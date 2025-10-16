@@ -45,10 +45,6 @@
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DavidBazhenov&theme=radical)
-
----
-
 ### 🌍 Connect with Me
 <p align="center">
   <a href="mailto:dav.id.bazhe.nov7@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" /></a>
