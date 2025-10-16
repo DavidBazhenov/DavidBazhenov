@@ -8,7 +8,7 @@
   <a href="https://t.me/RobinB0bin">
     <img src="https://img.shields.io/badge/Telegram-@RobinB0bin-0088cc?style=flat-square&logo=telegram" />
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/DavidBazhenov">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
   </a>
 </p>
@@ -19,7 +19,7 @@
 - 🌱 I’m currently improving my **MERN / PERN stack** skills  
 - 💡 I love creating clean, efficient, and scalable web applications  
 - 🔭 I enjoy working on both **frontend and backend** challenges  
-- ⚡ Fun fact: I’m passionate about learning new technologies and automation  
+- ⚡ I enjoy exploring modern frameworks and improving developer workflows.
 
 ---
 
