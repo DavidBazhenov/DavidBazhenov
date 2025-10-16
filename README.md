@@ -43,6 +43,9 @@
 ### 📊 My Contributions
 ![GitHub Snake Light](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
+---
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DavidBazhenov&theme=radical)
 
 ---
 
