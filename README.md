@@ -5,7 +5,7 @@
   <a href="mailto:dav.id.bazhe.nov7@gmail.com">
     <img src="https://img.shields.io/badge/Email-dav.id.bazhe.nov7%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://t.me/RobinB0bin">
+  <a href="https://t.me/DavidBazhenov">
     <img src="https://img.shields.io/badge/Telegram-@RobinB0bin-0088cc?style=flat-square&logo=telegram" />
   </a>
   <a href="https://github.com/DavidBazhenov">
