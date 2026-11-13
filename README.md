@@ -16,4 +16,4 @@ I'm currently sharpening my skills across the **MERN** and **PERN** stacks.
 
 ### Get in touch
 
-[Email](mailto:dav.id.bazhe.nov7@gmail.com) · [Telegram](https://t.me/DavidBazhenov) · [GitHub](https://github.com/DavidBazhenov)
+[Email](mailto:dav.id.bazhe.nov7@gmail.com) · [Telegram](https://t.me/DavidBazhenov) 
